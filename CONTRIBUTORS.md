@@ -4,7 +4,7 @@
 - ### **B**
 - ### **C**
 - ### **D**
-    -[Dywa VaraPrasad](https://github.com/dywa-varaprasad)
+    - [Dywa VaraPrasad](https://github.com/dywa-varaprasad)
 - ### **E**
 - ### **F**
 - ### **G**
